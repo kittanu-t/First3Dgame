@@ -1,16 +1,23 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757766295
+::res://::1757794167
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1744386698::1757766011::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
-::res://art/::1757766012
+player.tscn::PackedScene::160991894216725844::1757794199::0::1::::<><><>0<>0<><>::uid://dwxajqjfl140m::::res://art/Frying Pan.glb<>uid://bcy2ft55v235g::::res://player.gd
+player.gd::GDScript::2577992770520825050::1757793101::0::1::::<>CharacterBody3D<><>0<>0<><>::
+mob.tscn::PackedScene::7642978812464301163::1757794199::0::1::::<><><>0<>0<><>::uid://bfynwfptnm53r::::res://art/Fly.glb<>uid://ddgct0a11cyx7::::res://mob.gd
+mob.gd::GDScript::7382371526887411454::1757793950::0::1::::<>CharacterBody3D<><>0<>0<><>::
+::res://art/::1757769982
 body.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
 eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
+Fly.glb::PackedScene/PackedScene::2787738863022539025::1757768854::1757769981::1::::<><><>0<>0<>e9d9db93bd4b3ef8881fdba221f9ae27<>res://.godot/imported/Fly.glb-4c88085d07d1f4caf90255f5db809b84.scn::
+Frying Pan.glb::PackedScene/PackedScene::8750914226124309682::1757768890::1757769982::1::::<><><>0<>0<>a0e6c785d0ebb977d70057f261ebd6aa<>res://.godot/imported/Frying Pan.glb-77857b713c7e420b62cbbc5bf4ee4fa1.scn::
 House In a Forest Loop.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::6912470962729766485::1744386698::1757766011::1::::<><><>0<>0<>ca11219f684f6cd2af90d4e6cdaead58<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
 mob.glb::PackedScene/PackedScene::2952940687663745631::1744386698::1757766012::1::::<><><>0<>0<>a780a1250ec97030b0168a6a0460c3f3<>res://.godot/imported/mob.glb-3afb43c03b9d1598b6af5154e2543eac.scn::
 mob_body.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
 mob_eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
 player.glb::PackedScene/PackedScene::8964461739428881931::1744386698::1757766012::1::::<><><>0<>0<>888faf6ae4281eadd09c6bedcc72b9b7<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
 pupil.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
-::res://First3DGame/::1757765973
+::res://First3DGame/::1757794172
+main.tscn::PackedScene::7396765971275665237::1757794199::0::1::::<><><>0<>0<><>::uid://cj8rpabatksq::::res://player.tscn
 README.md::TextFile/TextFile::-1::1757765973::0::1::::<><><>0<>0<><>::
 ::res://fonts/::1757766011
 LICENSE.txt::TextFile/TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::

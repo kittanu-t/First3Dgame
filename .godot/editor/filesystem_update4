@@ -1,0 +1,12 @@
+res://First3DGame/main.tscn
+res://player.tscn
+res://player.gd
+res://mob.tscn
+res://mob.gd
+res://First3DGame/player.tscn
+res://First3DGame/mob.tscn
+res://First3DGame/main.gd
+res://First3DGame/player.gd
+res://First3DGame/mob.gd
+res://First3DGame/ScoreLabel.gd
+res://music_player.tscn
