@@ -1,8 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757929110
-export_presets.cfg::TextFile/TextFile::-1::1757928905::0::1::::<><><>0<>0<><>::
+::res://::1757929295
+export_presets.cfg::TextFile::-1::1757929154::0::1::::<><><>0<>0<><>::
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1744386698::1757766011::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
-music_player.tscn::PackedScene/PackedScene::2508623135721869367::1757928850::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
+music_player.tscn::PackedScene::2508623135721869367::1757929125::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
 ::res://art/::1757928330
 body.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
 eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
@@ -20,20 +20,20 @@ Zz Plant (1).glb::PackedScene/PackedScene::1752645887749909543::1757928127::1757
 Zz Plant (1)_tiny_treats_texture_1.png::CompressedTexture2D/CompressedTexture2D::1536677017429886404::1757928143::1757928143::1::::<><><>0<>0<>2dacd1f1b56086becb6ce89c266719a3<>res://.godot/imported/Zz Plant (1)_tiny_treats_texture_1.png-8afca2a420fa07e129f27c47b6aa6958.s3tc.ctex::
 Zz Plant.glb::PackedScene/PackedScene::5247335527745884893::1757928075::1757928078::1::::<><><>0<>0<>e2cc098bb5aa9f16663bd0ad5fd93bb0<>res://.godot/imported/Zz Plant.glb-2b26311717e94d96d3c9345eb1b6f793.scn::uid://b8hiuxl7mtoi1::::res://art/Zz Plant_tiny_treats_texture_1.png
 Zz Plant_tiny_treats_texture_1.png::CompressedTexture2D/CompressedTexture2D::4717625846347452538::1757928078::1757928079::1::::<><><>0<>0<>de541fc2fcc23fc196adc05845bdb216<>res://.godot/imported/Zz Plant_tiny_treats_texture_1.png-01c4d1a7451b4db15b88c285d4662a68.s3tc.ctex::
-::res://docs/::1757928904
-index.apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::979085952890332827::1757928904::1757927043::1::::<><><>0<>0<>0a78c73753eb369756712410b3ec4013<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
-index.icon.png::CompressedTexture2D/CompressedTexture2D::1471270913677553892::1757928904::1757927043::1::::<><><>0<>0<>4ba563b9d3d7126534d960e79b753d0e<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
-index.png::CompressedTexture2D/CompressedTexture2D::4565752588988850686::1757928904::1757927043::1::::<><><>0<>0<>07c4fb785ee2bbe10e154de4edaf1394<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
+::res://docs/::1757929154
+index.apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::979085952890332827::1757929154::1757927043::1::::<><><>0<>0<>0a78c73753eb369756712410b3ec4013<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
+index.icon.png::CompressedTexture2D/CompressedTexture2D::1471270913677553892::1757929154::1757927043::1::::<><><>0<>0<>4ba563b9d3d7126534d960e79b753d0e<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
+index.png::CompressedTexture2D/CompressedTexture2D::4565752588988850686::1757929154::1757927043::1::::<><><>0<>0<>07c4fb785ee2bbe10e154de4edaf1394<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
 Squash the Creeps (3D).apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::5212354363667582559::1757843311::1757926612::1::::<><><>0<>0<>cb1e1a6f4caf972f2c1ba25908ea9bc8<>res://.godot/imported/Squash the Creeps (3D).apple-touch-icon.png-fc577e04aaf764fb43b0a9d54fc79345.ctex::
 Squash the Creeps (3D).icon.png::CompressedTexture2D/CompressedTexture2D::7723579746223855350::1757843311::1757926612::1::::<><><>0<>0<>ede0fac0738c302ee21bc28e72e8d843<>res://.godot/imported/Squash the Creeps (3D).icon.png-5826224d437315b3821366816712364b.ctex::
 Squash the Creeps (3D).png::CompressedTexture2D/CompressedTexture2D::6605385009986430547::1757843311::1757926612::1::::<><><>0<>0<>67d033ee5bb252c7ba92aecc22a30afe<>res://.godot/imported/Squash the Creeps (3D).png-f4ce5649dfd1e7cb463b9f45f58b9b9f.ctex::
-::res://First3DGame/::1757928907
+::res://First3DGame/::1757929263
 main.gd::GDScript/GDScript::7104316056625382945::1757796911::0::1::::<>Node<><>0<>0<><>::
-main.tscn::PackedScene/PackedScene::7396765971275665237::1757928907::0::1::::<><><>0<>0<><>::uid://c8hnbu55xww0x::::res://First3DGame/main.gd<>uid://cj8rpabatksq::::res://First3DGame/player.tscn<>uid://dg5k0krovj4r4::::res://First3DGame/mob.tscn<>uid://y78265l6730v::::res://art/Zz Plant (1).glb<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://cidbd8x88tgrj::::res://art/Large Monstera Plant.glb<>uid://dol8igic7h165::::res://First3DGame/ScoreLabel.gd<>uid://cg0335au76b0p::::res://art/Zz Plant.glb<>uid://bem4jxt621sde::::res://fonts/arundina/Arundina.ttf
+main.tscn::PackedScene::7396765971275665237::1757929263::0::1::::<><><>0<>0<><>::uid://c8hnbu55xww0x::::res://First3DGame/main.gd<>uid://cj8rpabatksq::::res://First3DGame/player.tscn<>uid://dg5k0krovj4r4::::res://First3DGame/mob.tscn<>uid://y78265l6730v::::res://art/Zz Plant (1).glb<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://cidbd8x88tgrj::::res://art/Large Monstera Plant.glb<>uid://dol8igic7h165::::res://First3DGame/ScoreLabel.gd<>uid://cg0335au76b0p::::res://art/Zz Plant.glb<>uid://bem4jxt621sde::::res://fonts/arundina/Arundina.ttf
 mob.gd::GDScript/GDScript::7382371526887411454::1757842930::0::1::::<>CharacterBody3D<><>0<>0<><>::
-mob.tscn::PackedScene/PackedScene::7642978812464301163::1757928850::0::1::::<><><>0<>0<><>::uid://bfynwfptnm53r::::res://art/Fly.glb<>uid://ddgct0a11cyx7::::res://First3DGame/mob.gd
+mob.tscn::PackedScene::7642978812464301163::1757929125::0::1::::<><><>0<>0<><>::uid://bfynwfptnm53r::::res://art/Fly.glb<>uid://ddgct0a11cyx7::::res://First3DGame/mob.gd
 player.gd::GDScript/GDScript::2577992770520825050::1757842895::0::1::::<>CharacterBody3D<><>0<>0<><>::
-player.tscn::PackedScene/PackedScene::160991894216725844::1757928850::0::1::::<><><>0<>0<><>::uid://dwxajqjfl140m::::res://art/Frying Pan.glb<>uid://bcy2ft55v235g::::res://First3DGame/player.gd
+player.tscn::PackedScene::160991894216725844::1757929125::0::1::::<><><>0<>0<><>::uid://dwxajqjfl140m::::res://art/Frying Pan.glb<>uid://bcy2ft55v235g::::res://First3DGame/player.gd
 README.md::TextFile/TextFile::-1::1757765973::0::1::::<><><>0<>0<><>::
 ScoreLabel.gd::GDScript/GDScript::8166632292051422620::1757796246::0::1::::<>Label<><>0<>0<><>::
 ::res://fonts/::1757928731
