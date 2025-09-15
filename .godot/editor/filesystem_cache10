@@ -1,32 +1,53 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757926610
-export_presets.cfg::TextFile::-1::1757843311::0::1::::<><><>0<>0<><>::
+::res://::1757928782
+export_presets.cfg::TextFile/TextFile::-1::1757926914::0::1::::<><><>0<>0<><>::
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1744386698::1757766011::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
-music_player.tscn::PackedScene::2508623135721869367::1757843191::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
-::res://art/::1757769982
+music_player.tscn::PackedScene::2508623135721869367::1757928610::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
+::res://art/::1757928330
 body.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
 eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
 Fly.glb::PackedScene/PackedScene::2787738863022539025::1757768854::1757769981::1::::<><><>0<>0<>e9d9db93bd4b3ef8881fdba221f9ae27<>res://.godot/imported/Fly.glb-4c88085d07d1f4caf90255f5db809b84.scn::
 Frying Pan.glb::PackedScene/PackedScene::8750914226124309682::1757768890::1757769982::1::::<><><>0<>0<>a0e6c785d0ebb977d70057f261ebd6aa<>res://.godot/imported/Frying Pan.glb-77857b713c7e420b62cbbc5bf4ee4fa1.scn::
 House In a Forest Loop.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::6912470962729766485::1744386698::1757766011::1::::<><><>0<>0<>ca11219f684f6cd2af90d4e6cdaead58<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
+Large Monstera Plant.glb::PackedScene/PackedScene::5340613094472400363::1757928133::1757928143::1::::<><><>0<>0<>9b14591d462b42a78ac0e17d3e617774<>res://.godot/imported/Large Monstera Plant.glb-7f251900564cb3c570f7d394e99ca9e4.scn::uid://bou52oehd2q28::::res://art/Large Monstera Plant_tiny_treats_texture_1.png
+Large Monstera Plant_tiny_treats_texture_1.png::CompressedTexture2D/CompressedTexture2D::3412222517754433375::1757928142::1757928143::1::::<><><>0<>0<>92cbb915f445004901ba3549f6cbda3a<>res://.godot/imported/Large Monstera Plant_tiny_treats_texture_1.png-b72a0d96cbbf551a2ae80aa182315ac1.s3tc.ctex::
 mob.glb::PackedScene/PackedScene::2952940687663745631::1744386698::1757766012::1::::<><><>0<>0<>a780a1250ec97030b0168a6a0460c3f3<>res://.godot/imported/mob.glb-3afb43c03b9d1598b6af5154e2543eac.scn::
 mob_body.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
 mob_eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
 player.glb::PackedScene/PackedScene::8964461739428881931::1744386698::1757766012::1::::<><><>0<>0<>888faf6ae4281eadd09c6bedcc72b9b7<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
 pupil.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
-::res://docs/::1757926403
-Squash the Creeps (3D).apple-touch-icon.png::CompressedTexture2D::5212354363667582559::1757843311::1757926612::1::::<><><>0<>0<>cb1e1a6f4caf972f2c1ba25908ea9bc8<>res://.godot/imported/Squash the Creeps (3D).apple-touch-icon.png-fc577e04aaf764fb43b0a9d54fc79345.ctex::
-Squash the Creeps (3D).icon.png::CompressedTexture2D::7723579746223855350::1757843311::1757926612::1::::<><><>0<>0<>ede0fac0738c302ee21bc28e72e8d843<>res://.godot/imported/Squash the Creeps (3D).icon.png-5826224d437315b3821366816712364b.ctex::
-Squash the Creeps (3D).png::CompressedTexture2D::6605385009986430547::1757843311::1757926612::1::::<><><>0<>0<>67d033ee5bb252c7ba92aecc22a30afe<>res://.godot/imported/Squash the Creeps (3D).png-f4ce5649dfd1e7cb463b9f45f58b9b9f.ctex::
-::res://First3DGame/::1757843312
+Zz Plant (1).glb::PackedScene/PackedScene::1752645887749909543::1757928127::1757928143::1::::<><><>0<>0<>6ba99394ef88c903a55fef69f783299c<>res://.godot/imported/Zz Plant (1).glb-7dac810d9c2efaa56db2404b9623e630.scn::uid://v5m3063qpvyi::::res://art/Zz Plant (1)_tiny_treats_texture_1.png
+Zz Plant (1)_tiny_treats_texture_1.png::CompressedTexture2D/CompressedTexture2D::1536677017429886404::1757928143::1757928143::1::::<><><>0<>0<>2dacd1f1b56086becb6ce89c266719a3<>res://.godot/imported/Zz Plant (1)_tiny_treats_texture_1.png-8afca2a420fa07e129f27c47b6aa6958.s3tc.ctex::
+Zz Plant.glb::PackedScene/PackedScene::5247335527745884893::1757928075::1757928078::1::::<><><>0<>0<>e2cc098bb5aa9f16663bd0ad5fd93bb0<>res://.godot/imported/Zz Plant.glb-2b26311717e94d96d3c9345eb1b6f793.scn::uid://b8hiuxl7mtoi1::::res://art/Zz Plant_tiny_treats_texture_1.png
+Zz Plant_tiny_treats_texture_1.png::CompressedTexture2D/CompressedTexture2D::4717625846347452538::1757928078::1757928079::1::::<><><>0<>0<>de541fc2fcc23fc196adc05845bdb216<>res://.godot/imported/Zz Plant_tiny_treats_texture_1.png-01c4d1a7451b4db15b88c285d4662a68.s3tc.ctex::
+::res://docs/::1757927043
+index.apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::979085952890332827::1757926914::1757927043::1::::<><><>0<>0<>0a78c73753eb369756712410b3ec4013<>res://.godot/imported/index.apple-touch-icon.png-b21a756d869f84af832970a74d8371bc.ctex::
+index.icon.png::CompressedTexture2D/CompressedTexture2D::1471270913677553892::1757926914::1757927043::1::::<><><>0<>0<>4ba563b9d3d7126534d960e79b753d0e<>res://.godot/imported/index.icon.png-b92c9a802ad4b78e247784454a6b506f.ctex::
+index.png::CompressedTexture2D/CompressedTexture2D::4565752588988850686::1757926914::1757927043::1::::<><><>0<>0<>07c4fb785ee2bbe10e154de4edaf1394<>res://.godot/imported/index.png-0c78d14d192abe5f22f8c25928ca1ab8.ctex::
+Squash the Creeps (3D).apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::5212354363667582559::1757843311::1757926612::1::::<><><>0<>0<>cb1e1a6f4caf972f2c1ba25908ea9bc8<>res://.godot/imported/Squash the Creeps (3D).apple-touch-icon.png-fc577e04aaf764fb43b0a9d54fc79345.ctex::
+Squash the Creeps (3D).icon.png::CompressedTexture2D/CompressedTexture2D::7723579746223855350::1757843311::1757926612::1::::<><><>0<>0<>ede0fac0738c302ee21bc28e72e8d843<>res://.godot/imported/Squash the Creeps (3D).icon.png-5826224d437315b3821366816712364b.ctex::
+Squash the Creeps (3D).png::CompressedTexture2D/CompressedTexture2D::6605385009986430547::1757843311::1757926612::1::::<><><>0<>0<>67d033ee5bb252c7ba92aecc22a30afe<>res://.godot/imported/Squash the Creeps (3D).png-f4ce5649dfd1e7cb463b9f45f58b9b9f.ctex::
+::res://First3DGame/::1757928626
 main.gd::GDScript/GDScript::7104316056625382945::1757796911::0::1::::<>Node<><>0<>0<><>::
-main.tscn::PackedScene::7396765971275665237::1757843312::0::1::::<><><>0<>0<><>::uid://c8hnbu55xww0x::::res://First3DGame/main.gd<>uid://cj8rpabatksq::::res://First3DGame/player.tscn<>uid://dg5k0krovj4r4::::res://First3DGame/mob.tscn<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://dol8igic7h165::::res://First3DGame/ScoreLabel.gd
-mob.gd::GDScript::7382371526887411454::1757842930::0::1::::<>CharacterBody3D<><>0<>0<><>::
-mob.tscn::PackedScene::7642978812464301163::1757843191::0::1::::<><><>0<>0<><>::uid://bfynwfptnm53r::::res://art/Fly.glb<>uid://ddgct0a11cyx7::::res://First3DGame/mob.gd
-player.gd::GDScript::2577992770520825050::1757842895::0::1::::<>CharacterBody3D<><>0<>0<><>::
-player.tscn::PackedScene::160991894216725844::1757843191::0::1::::<><><>0<>0<><>::uid://dwxajqjfl140m::::res://art/Frying Pan.glb<>uid://bcy2ft55v235g::::res://First3DGame/player.gd
+main.tscn::PackedScene::7396765971275665237::1757928626::0::1::::<><><>0<>0<><>::uid://c8hnbu55xww0x::::res://First3DGame/main.gd<>uid://cj8rpabatksq::::res://First3DGame/player.tscn<>uid://dg5k0krovj4r4::::res://First3DGame/mob.tscn<>uid://y78265l6730v::::res://art/Zz Plant (1).glb<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://cidbd8x88tgrj::::res://art/Large Monstera Plant.glb<>uid://dol8igic7h165::::res://First3DGame/ScoreLabel.gd<>uid://cg0335au76b0p::::res://art/Zz Plant.glb
+mob.gd::GDScript/GDScript::7382371526887411454::1757842930::0::1::::<>CharacterBody3D<><>0<>0<><>::
+mob.tscn::PackedScene::7642978812464301163::1757928610::0::1::::<><><>0<>0<><>::uid://bfynwfptnm53r::::res://art/Fly.glb<>uid://ddgct0a11cyx7::::res://First3DGame/mob.gd
+player.gd::GDScript/GDScript::2577992770520825050::1757842895::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player.tscn::PackedScene::160991894216725844::1757928624::0::1::::<><><>0<>0<><>::uid://dwxajqjfl140m::::res://art/Frying Pan.glb<>uid://bcy2ft55v235g::::res://First3DGame/player.gd
 README.md::TextFile/TextFile::-1::1757765973::0::1::::<><><>0<>0<><>::
 ScoreLabel.gd::GDScript/GDScript::8166632292051422620::1757796246::0::1::::<>Label<><>0<>0<><>::
-::res://fonts/::1757766011
+::res://fonts/::1757928731
 LICENSE.txt::TextFile/TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1744386698::1757766011::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
+::res://fonts/arundina/::1757928735
+Arundina.ttf::FontFile::2693726695063278674::1168201614::1757928783::1::::<><><>0<>0<>a85e92033ce1e5f747b19bac53d3b9f2<>res://.godot/imported/Arundina.ttf-ab18e2a560a75d7d4f7dca08551640a2.fontdata::
+Arundinab.ttf::FontFile::2463723959825054524::1168201338::1757928783::1::::<><><>0<>0<>0f7c02249960f64bb0587f46b05f6753<>res://.godot/imported/Arundinab.ttf-f4e8c305a89ba68a56f1f2585b1bc24b.fontdata::
+Arundinabo.ttf::FontFile::926058974422782033::1168201306::1757928783::1::::<><><>0<>0<>b37b1456afdea2ea09714b28123c42c9<>res://.godot/imported/Arundinabo.ttf-e808e365993b0b9d1e12521fab838314.fontdata::
+Arundinamobd.ttf::FontFile::4254888431485855057::1168201398::1757928783::1::::<><><>0<>0<>6ecffdaf04daeae883248f241daba966<>res://.godot/imported/Arundinamobd.ttf-7f9466ba827fc3556421a33c83afb67e.fontdata::
+Arundinamobi.ttf::FontFile::6637824804318054070::1168201486::1757928783::1::::<><><>0<>0<>71e2fdeeb53ac15179a5b58e49d32cae<>res://.godot/imported/Arundinamobi.ttf-aef6b284d4af1692b413049c20ee9cd2.fontdata::
+Arundinamoit.ttf::FontFile::167998778205168956::1168201522::1757928783::1::::<><><>0<>0<>543de00cd2ce20d37e70d5eda8af397b<>res://.godot/imported/Arundinamoit.ttf-95481bcdd7c83b25c2c46652d5039708.fontdata::
+Arundinamono.ttf::FontFile::1286197049961468081::1168201558::1757928783::1::::<><><>0<>0<>bd223134bfceea7686354efc9aac0022<>res://.godot/imported/Arundinamono.ttf-f9ec07167a930423118deeef648eee21.fontdata::
+Arundinao.ttf::FontFile::3347100351397560095::1168201586::1757928783::1::::<><><>0<>0<>3f00386c9c193068ffbd428629f5e6f1<>res://.godot/imported/Arundinao.ttf-73886cfe69f63720bdddcc806d502908.fontdata::
+ArunSer.ttf::FontFile::5406906242244786725::1168201672::1757928783::1::::<><><>0<>0<>27204393882257e48c1e7cb5835ff75b<>res://.godot/imported/ArunSer.ttf-738d4f38746874c0e3e6b8043945670e.fontdata::
+ArunSerB.ttf::FontFile::4545938779499816424::1168201646::1757928783::1::::<><><>0<>0<>2c1b16a648b27e1c27cbcf257b2d2b05<>res://.godot/imported/ArunSerB.ttf-57de6f0e137873de6b50db12b4e91e9b.fontdata::
+license.txt::TextFile::-1::1182223802::0::1::::<><><>0<>0<><>::
