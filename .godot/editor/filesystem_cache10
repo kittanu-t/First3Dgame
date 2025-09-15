@@ -1,7 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1757842478
+::res://::1757926610
+export_presets.cfg::TextFile::-1::1757843311::0::1::::<><><>0<>0<><>::
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1744386698::1757766011::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
-music_player.tscn::PackedScene::2508623135721869367::1757797044::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
+music_player.tscn::PackedScene::2508623135721869367::1757843191::0::1::::<><><>0<>0<><>::uid://c5qpnfga41t4p::::res://art/House In a Forest Loop.ogg
 ::res://art/::1757769982
 body.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
 eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
@@ -13,15 +14,19 @@ mob_body.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<>
 mob_eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
 player.glb::PackedScene/PackedScene::8964461739428881931::1744386698::1757766012::1::::<><><>0<>0<>888faf6ae4281eadd09c6bedcc72b9b7<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
 pupil.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
-::res://First3DGame/::1757797075
-main.gd::GDScript::7104316056625382945::1757796911::0::1::::<>Node<><>0<>0<><>::
-main.tscn::PackedScene::7396765971275665237::1757797075::0::1::::<><><>0<>0<><>::uid://c8hnbu55xww0x::::res://First3DGame/main.gd<>uid://cj8rpabatksq::::res://First3DGame/player.tscn<>uid://dg5k0krovj4r4::::res://First3DGame/mob.tscn<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://dol8igic7h165::::res://First3DGame/ScoreLabel.gd
-mob.gd::GDScript::7382371526887411454::1757795938::0::1::::<>CharacterBody3D<><>0<>0<><>::
-mob.tscn::PackedScene::7642978812464301163::1757797044::0::1::::<><><>0<>0<><>::uid://bfynwfptnm53r::::res://art/Fly.glb<>uid://ddgct0a11cyx7::::res://First3DGame/mob.gd
-player.gd::GDScript::2577992770520825050::1757795943::0::1::::<>CharacterBody3D<><>0<>0<><>::
-player.tscn::PackedScene::160991894216725844::1757797044::0::1::::<><><>0<>0<><>::uid://dwxajqjfl140m::::res://art/Frying Pan.glb<>uid://bcy2ft55v235g::::res://First3DGame/player.gd
+::res://docs/::1757926403
+Squash the Creeps (3D).apple-touch-icon.png::CompressedTexture2D::5212354363667582559::1757843311::1757926612::1::::<><><>0<>0<>cb1e1a6f4caf972f2c1ba25908ea9bc8<>res://.godot/imported/Squash the Creeps (3D).apple-touch-icon.png-fc577e04aaf764fb43b0a9d54fc79345.ctex::
+Squash the Creeps (3D).icon.png::CompressedTexture2D::7723579746223855350::1757843311::1757926612::1::::<><><>0<>0<>ede0fac0738c302ee21bc28e72e8d843<>res://.godot/imported/Squash the Creeps (3D).icon.png-5826224d437315b3821366816712364b.ctex::
+Squash the Creeps (3D).png::CompressedTexture2D::6605385009986430547::1757843311::1757926612::1::::<><><>0<>0<>67d033ee5bb252c7ba92aecc22a30afe<>res://.godot/imported/Squash the Creeps (3D).png-f4ce5649dfd1e7cb463b9f45f58b9b9f.ctex::
+::res://First3DGame/::1757843312
+main.gd::GDScript/GDScript::7104316056625382945::1757796911::0::1::::<>Node<><>0<>0<><>::
+main.tscn::PackedScene::7396765971275665237::1757843312::0::1::::<><><>0<>0<><>::uid://c8hnbu55xww0x::::res://First3DGame/main.gd<>uid://cj8rpabatksq::::res://First3DGame/player.tscn<>uid://dg5k0krovj4r4::::res://First3DGame/mob.tscn<>uid://cyxhh7ddkn62q::::res://fonts/Montserrat-Medium.ttf<>uid://dol8igic7h165::::res://First3DGame/ScoreLabel.gd
+mob.gd::GDScript::7382371526887411454::1757842930::0::1::::<>CharacterBody3D<><>0<>0<><>::
+mob.tscn::PackedScene::7642978812464301163::1757843191::0::1::::<><><>0<>0<><>::uid://bfynwfptnm53r::::res://art/Fly.glb<>uid://ddgct0a11cyx7::::res://First3DGame/mob.gd
+player.gd::GDScript::2577992770520825050::1757842895::0::1::::<>CharacterBody3D<><>0<>0<><>::
+player.tscn::PackedScene::160991894216725844::1757843191::0::1::::<><><>0<>0<><>::uid://dwxajqjfl140m::::res://art/Frying Pan.glb<>uid://bcy2ft55v235g::::res://First3DGame/player.gd
 README.md::TextFile/TextFile::-1::1757765973::0::1::::<><><>0<>0<><>::
-ScoreLabel.gd::GDScript::8166632292051422620::1757796246::0::1::::<>Label<><>0<>0<><>::
+ScoreLabel.gd::GDScript/GDScript::8166632292051422620::1757796246::0::1::::<>Label<><>0<>0<><>::
 ::res://fonts/::1757766011
 LICENSE.txt::TextFile/TextFile::-1::1744386698::0::1::::<><><>0<>0<><>::
 Montserrat-Medium.ttf::FontFile/FontFile::6505293508080888906::1744386698::1757766011::1::::<><><>0<>0<>07233739ee8ed56ec1cb0f04a4ff2983<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
